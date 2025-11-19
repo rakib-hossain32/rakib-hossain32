@@ -1,4 +1,11 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rakib+Hossain....;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
+
 
 <!--
 **rakib-hossain32/rakib-hossain32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
