@@ -8,6 +8,9 @@
 
 
 
+
+
+
 <h1 align="center">Hi 👋, I'm Rakib Hossain</h1>
 <h3 align="center">I'm a Frontend Developer focused on building modern, high-quality web experiences. I create scalable user interfaces, optimize performance, and deliver clean, maintainable code using modern tools, frameworks, and industry best practices.</h3>
 
@@ -16,7 +19,7 @@
 ### 🧠 Tech Stack
 
 #### 💻 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,html,css,js,bootstrap,nextjs,figma)](https://skillicons.dev)
 
 #### ⚙️ Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman)](https://skillicons.dev)
@@ -27,8 +30,8 @@
 #### 🛠️ Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-#### 🎨 Design & Graphics
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,xd)](https://skillicons.dev)
+#### 🎨 Design & Graphics Basic
+[![My Skills](https://skillicons.dev/icons?i=ps,ai,xd)](https://skillicons.dev)
 
 ---
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
@@ -38,15 +41,11 @@
 
 <div align="center">
 
-| 📊 GitHub Stats | 🏆 Top Languages |
+| 📊 GitHub Stats | 🔥 Commit Streak |
 | :---: | :---: |
-| <a href="https://github.com/rakib-hossain32"><img src="https://github-readme-stats.vercel.app/api?username=rakib-hossain32&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> | <a href="https://github.com/rakib-hossain32"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-hossain32&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" /></a> |
+| <a href="https://github.com/rakib-hossain32"><img src="https://github-readme-stats.vercel.app/api?username=rakib-hossain32&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> |  <a href="https://github.com/rakib-hossain32"><img src="https://streak-stats.demolab.com?user=rakib-hossain32&theme=radical&hide_border=true" alt="streak graph" /></a>  |
 
-<br/>
 
-| 🔥 Commit Streak |
-| :---: |
-| <a href="https://github.com/rakib-hossain32"><img src="https://streak-stats.demolab.com?user=rakib-hossain32&theme=radical&hide_border=true" alt="streak graph" /></a> |
 
 </div>
 
