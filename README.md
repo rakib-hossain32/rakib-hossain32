@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+![](https://komarev.com/ghpvc/?username=rakib-hossain32&style=for-the-badge)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
