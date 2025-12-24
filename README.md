@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=rakib-hossain32&style=for-the-badge)
 
+<p align="center">
+<img src="https://i.ibb.co.com/RKvxHP3/Rakib-FB-Cover-UHD.png" alt="" width=""/>
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+Alaikum!+👋;This+is+Rakib+Hossain....;Nice+to+meet+you!&center=true&size=25">
