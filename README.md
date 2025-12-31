@@ -43,15 +43,13 @@
 ![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 --
 
-<div align="center">
-
-| 📊 GitHub Stats | 🔥 Commit Streak |
-| :---: | :---: |
-| <a href="https://github.com/rakib-hossain32"><img src="https://github-readme-stats.vercel.app/api?username=rakib-hossain32&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph" /></a> |  <a href="https://github.com/rakib-hossain32"><img src="https://streak-stats.demolab.com?user=rakib-hossain32&theme=radical&hide_border=true" alt="streak graph" /></a>  |
-
-
-
-</div>
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib-hossain32&theme=github_dark)
+  
+ </div>
 
 ---
 
