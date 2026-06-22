@@ -241,7 +241,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakib-hossain32&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Rakib Hossain GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-hossain32&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib-hossain32&layout=compact&theme=github_dark&hide_border=true&langs_count=4&hide=python,c%2B%2B,c,cython,shell,powershell,assembly,purebasic" alt="Top languages" height="180" />
 </p>
 
 <p align="center">
