@@ -90,16 +90,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 
 ---
 
-<!-- =============================================================
-     FEATURED PROJECTS
-     👉 For each card, replace:
-        - The placeholder image  -> a real screenshot URL
-        - PROJECT TITLE          -> your project name
-        - The description        -> 1–2 line summary
-        - The tech badges        -> the stack you actually used
-        - LIVE-DEMO-URL          -> your deployed link
-        - SOURCE-CODE-URL        -> the GitHub repo link
-     ============================================================= -->
+
 
 ## 🚀 Featured Projects
 
@@ -195,21 +186,23 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
   <tr>
     <td valign="top" align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind,firebase" alt="Frontend skills" />
     </td>
   </tr>
   <tr>
     <td valign="top" align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" alt="Backend skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="Backend skills" />
+      <br/>
+      <sub>Also comfortable with <b>Mongoose</b>. <sub/>
     </td>
   </tr>
   <tr>
     <td valign="top" align="center"><b>Database &amp; ORM</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" alt="Database skills" />
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,neondb" alt="Database skills" />
       <br />
-      <sub>Also comfortable with <b>Mongoose</b> and <b>NeoDB</b>.</sub>
+      <sub>Also comfortable with <b>NeonDB</b>.</sub>
     </td>
   </tr>
   <tr>
