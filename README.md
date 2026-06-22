@@ -195,7 +195,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
   <tr>
     <td valign="top" align="center"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend skills" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="Frontend skills" />
     </td>
   </tr>
   <tr>
