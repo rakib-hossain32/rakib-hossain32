@@ -25,22 +25,16 @@
   and maintainable code — turning real-world ideas into polished products that are easy to use and ready to grow.
 </p>
 
-<!-- =============================================================
-     CALL-TO-ACTION BUTTONS
-     👉 Replace the 3 links below with your real URLs:
-        - Portfolio  : https://YOUR-PORTFOLIO.com
-        - LinkedIn   : https://linkedin.com/in/YOUR-LINKEDIN
-        - Email      : YOUR-EMAIL@gmail.com
-     ============================================================= -->
+
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO.com">
+  <a href="https://dev-rakib-hossain.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rakib-hossain-md/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:rakibulhasanmd678@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/rakib-hossain32?tab=repositories">
@@ -61,7 +55,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 - 🔭 I build **production-ready full-stack applications** with authentication, REST APIs, and database integration.
 - 🧩 Comfortable owning a feature **end-to-end** — UI design, frontend, backend, and deployment.
 - ⚡ Focused on **clean code**, **responsive layouts**, **performance**, **accessibility**, and great UX.
-- 🛠️ Daily tools: **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, Tailwind CSS**.
+- 🛠️ Daily tools: **React, Next.js, Node.js, Express, MongoDB, PostgreSQL, Prisma, Mongoose, Tailwind CSS**.
 - 🌱 Always learning through real projects, problem solving, and modern development practices.
 - 📍 Based in Bangladesh · 💬 Ask me about **React, Next.js, and the MERN stack**.
 
@@ -87,8 +81,8 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
     <td width="50%" valign="top">
       <ul>
         <li>🔌 <b>REST API</b>-based web applications</li>
-        <li>🗄️ Database-driven apps (PostgreSQL, MongoDB, Prisma)</li>
-        <li>🔥 Firebase-powered apps with hosting &amp; auth</li>
+        <li>🗄️ Database-driven apps (PostgreSQL, MongoDB, Prisma, Mongoose)</li>
+        <li>🔥 Firebase-powered apps with auth</li>
       </ul>
     </td>
   </tr>
@@ -112,13 +106,13 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 <table>
   <tr>
     <td width="42%" valign="middle">
-      <a href="LIVE-DEMO-URL">
-        <img src="https://placehold.co/600x360/0d1117/2f81f7?text=Project+One" width="100%" alt="Project One preview" />
+      <a href="https://contest-hub-c7402.web.app/">
+        <img src="https://i.ibb.co.com/Nd1KwFCT/photo-4.png" width="100%" alt="ContestHub" />
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>🛒 Project Title One</h3>
-      <p>A short, punchy description of what this app does and the problem it solves. Mention 1–2 standout features (e.g. auth, payments, dashboard).</p>
+      <h3>ContestHub</h3>
+      <p>ContestHub is a modern contest management platform where creative professionals can discover competitions, register, submit their work, and track upcoming events.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -127,8 +121,8 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
       <p>
-        <a href="LIVE-DEMO-URL"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-        <a href="SOURCE-CODE-URL"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://contest-hub-c7402.web.app/"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/rakib-hossain32/Contest-Hub"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
       </p>
     </td>
   </tr>
@@ -137,22 +131,22 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 <table>
   <tr>
     <td width="42%" valign="middle">
-      <a href="LIVE-DEMO-URL">
-        <img src="https://placehold.co/600x360/0d1117/2f81f7?text=Project+Two" width="100%" alt="Project Two preview" />
+      <a href="https://www.gfcont.com/">
+        <img src="https://i.ibb.co.com/tpCM3Fff/photo-1.png" width="100%" alt="GFC - Golden First Contracting" />
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>📊 Project Title Two</h3>
-      <p>A short, punchy description of what this app does and the problem it solves. Mention 1–2 standout features (e.g. real-time data, role-based access).</p>
+      <h3>GFC - Golden First Contracting</h3>
+      <p>GFC is a business-focused logistics platform designed to strengthen the digital presence of a global freight forwarding company.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/TypeScript-06B6D4?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
       <p>
-        <a href="LIVE-DEMO-URL"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-        <a href="SOURCE-CODE-URL"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://www.gfcont.com/"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+        <!-- <a href="SOURCE-CODE-URL"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a> -->
       </p>
     </td>
   </tr>
@@ -161,22 +155,23 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 <table>
   <tr>
     <td width="42%" valign="middle">
-      <a href="LIVE-DEMO-URL">
-        <img src="https://placehold.co/600x360/0d1117/2f81f7?text=Project+Three" width="100%" alt="Project Three preview" />
+      <a href="https://movies-master-pro.web.app/">
+        <img src="https://i.ibb.co.com/TBmfxXWB/photo-2.png" width="100%" alt="Movie Master Pro" />
       </a>
     </td>
     <td width="58%" valign="top">
-      <h3>🔥 Project Title Three</h3>
-      <p>A short, punchy description of what this app does and the problem it solves. Mention 1–2 standout features (e.g. Firebase auth, file uploads).</p>
+      <h3>Movie Master Pro</h3>
+      <p>Movie Master Pro is a modern movie exploration platform where users can discover trending films, browse detailed movie information, manage personalized watchlists, and explore movies by genre. </p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
       <p>
-        <a href="LIVE-DEMO-URL"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
-        <a href="SOURCE-CODE-URL"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+        <a href="https://movies-master-pro.web.app/"><img src="https://img.shields.io/badge/Live%20Demo-2EA043?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/rakib-hossain32/Movie-Master-Pro"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
       </p>
     </td>
   </tr>
@@ -267,13 +262,13 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rakib-hossain-md/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:rakibulhasanmd678@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
+   <a href="https://dev-rakib-hossain.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/rakib-hossain32">
@@ -287,7 +282,7 @@ I'm a **Full Stack Developer** specializing in the **MERN stack**, building comp
   <a href="https://facebook.com/rakibmahmud32">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/rakib-hossain32">
+  <a href="https://www.instagram.com/mahmud_rakib32">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
